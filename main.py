@@ -12,6 +12,7 @@ bot = commands.Bot(
 	intents=intents)
 # Notice how we use commands.Bot instead of discord.Client. Search the docs for more info. 
 
+token = "oonga boonga"
 
 # Load/Save functions
 
@@ -116,4 +117,4 @@ async def mine_error(ctx, error):
 		raise error
 
 
-bot.run("ODI3MDU0NDE4MzE4OTgzMTk5.YGVccw.g1_6jPtGUFlvCCN7UFL5s3W72fM")
+bot.run(token)
