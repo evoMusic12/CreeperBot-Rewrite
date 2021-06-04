@@ -13,7 +13,7 @@ Some documentation that I'd like you to take a look at:
 * [discord.ext.tasks](https://discordpy.readthedocs.io/en/latest/ext/tasks/index.html)
 * [Discord Error Handling](https://discordpy.readthedocs.io/en/rewrite/ext/commands/commands.html#error-handling) (Might be slightly outdated)
 
-**P.S**\n
+**P.S**<br>
 I've only included the features that you've added in your version. I'll try to complete it if you want :)
 
 
